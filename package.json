@@ -1,0 +1,26 @@
+{
+  "name": "milenanodeheroku",
+  "version": "1.0.0",
+  "description": "Subindo aplicação para o Heroku usando o NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milenapokrywiecki/milenanodeheroku.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/milenapokrywiecki/milenanodeheroku/issues"
+  },
+  "homepage": "https://github.com/milenapokrywiecki/milenanodeheroku#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
